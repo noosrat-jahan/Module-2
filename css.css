@@ -1,0 +1,53 @@
+
+body{
+    background-image: url('summer.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 1;
+    color: white;
+    padding: 20px;
+    
+   
+}
+
+
+p{
+    border: 2px solid burlywood;
+    background-color: pink;
+    width: 60%;
+    height: 200px;
+    margin: 10px 100px;
+    padding: 15px 20px;
+    text-align: justify;
+    color: brown;
+    font-weight: bold;
+    overflow: scroll;
+    line-height: 25px;
+    line-break: auto;
+    word-spacing: 10px;
+    box-shadow: 30px 30px 50px 20px palegreen inset
+    
+}
+
+h1{
+    display: block;
+    font-size: 50px;
+    color: black;
+    font-weight: bolder;
+    margin: auto;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+h3{
+    margin: 10px 100px;
+    font-size: 50px;
+}
+
+.learning{
+    margin: 3% 30%;
+    padding: 20px;
+    color: black;
+    background-color: bisque; 
+    font-size: 35px;
+}
